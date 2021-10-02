@@ -1,11 +1,5 @@
-#include<stdio.h>
-#include<conio.h>
-void main()
-{
-int a,b,c;
-clrscr();
-printf("Enter three numbers:");
-scanf("%d%d%d",&a,&b,&c);
-printf("%d is largest",(a>b)?((a>c)?a:c):((b>c)?b:c));
-getch();
-}
+1. Firstly either ask for assign the issue or add a issue.
+2. Then after succesfull assignment fork , star it.
+3. Then start working on it.
+4. Create a valid pull request with proper commit message.
+5. Ask for review and merge (If all steps are properly obeyed then it will be merged definitely)
