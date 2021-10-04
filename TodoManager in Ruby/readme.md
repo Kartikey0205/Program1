@@ -2,7 +2,7 @@
 
 #### Check a Live Demo @ [Repl](https://replit.com/@AyushVijayant/TodoManager)
 
-### This is a simple CLI - Program that shows tasks added by the user while running the program.
+ This is a simple CLI - Program that shows tasks added by the user while running the program.
 
 **install `ruby` by following _[Your OS specific guide](https://gorails.com/setup/)_**
 
