@@ -6,7 +6,7 @@
 
 **install `ruby` by following _[Your OS specific guide](https://gorails.com/setup/)_**
 
-run `ruby todo_mager.rb` . 
+run `ruby todo_manager.rb` . 
 
 > ![1](https://user-images.githubusercontent.com/56788911/135879898-a493ee6e-b31d-4cdf-87cc-c5fced2c0956.png)
 
