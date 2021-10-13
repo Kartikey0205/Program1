@@ -1,0 +1,46 @@
+h2{
+    font-family: 'Reggae One', cursive;
+}
+.container1 {
+    display: flex;
+    flex-wrap: wrap;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   
+   border:5px solid black;
+   
+
+
+
+}
+.clickme
+{
+    background-color: blue;
+    color:cornsilk;
+    padding: 10px;
+    border-radius: 7px;
+
+    
+}
+.reset{
+    background-color: red;
+    padding:10px;
+    color:cornsilk;
+    border-radius: 7px;
+}
+h2{
+    text-align: center;
+    margin-top: 30px;
+    
+}
+#clickme{
+    padding:20px;
+    
+    
+}
+#reset{
+    padding:20px;
+    
+  
+}
