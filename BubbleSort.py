@@ -16,3 +16,11 @@ def bubbleSort(arr):
                 arr[j], arr[j + 1] = arr[j + 1], arr[j]
 
 
+if __name__ == '__main__':
+
+    # test array
+    arr = [13, 20, 5, 8, 1, 3, 25]
+    bubbleSort(arr)
+
+    # prints sorted array
+    print(arr)
